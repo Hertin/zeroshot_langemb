@@ -1,5 +1,5 @@
 # Zero-Shot Cross-Lingual Phonetic Recognition with External Language Embedding
-This repository is an implementation for Zero-Shot Cross-Lingual Phonetic Recognition with External Language Embedding. It is a recipe of ESPnet.
+This repository is an implementation for [Zero-Shot Cross-Lingual Phonetic Recognition with External Language Embedding](https://www.isca-speech.org/archive/interspeech_2021/gao21_interspeech.html). It is a recipe of ESPnet.
 
 * Please follow the instruction in setup.sh
   - clone the specific version of ESPnet and install it.
